@@ -1,3 +1,3 @@
 # Scattered-Systems (SCSYS)
 
-## _Welcome to the future of internet based experiences_
+_Welcome to the future of internet based experiences_
