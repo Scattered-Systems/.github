@@ -1,10 +1,12 @@
 # Scattered-Systems
 
-_Welcome to the future of internet based experiences_
+_Designing the future of internet-based experiences_
 
-Scattered-Systems, LLC is a privately owned software company specializing creating decentralized software solutions designed to enable a seamless Web3 experience as well as consulting small-businesses on achieving maximum effeciency through holistic digital transformations customized to the clients needs.
+## About
 
-## Resources
+Welcome to the Scattered-Systems GitHub, we are committed to delivering a seamless and secure internet experience to our users finally bringing blockchain technology to the common person. This manifests into the ecosystem envisioned in our documentation as Proton delivers each of our graphical experiences enabled by the underlying cloud-native architecture.
+
+## Quick Links
 
 * [Scattered-Systems](https://scattered-systems.com)
 * [Documentaion](https://docs.scattered-systems.com)
