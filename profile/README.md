@@ -1,15 +1,10 @@
 # Scattered-Systems
 
-## About
+## _Currently migrating the codebase primarily to [gitlab](https://gitlab.com/scsys)_
 
-Scattered-Systems, LLC is a privately owned software development company founded to bring blockchain technologies to the world with our unique gateway into the next generation of internet-based experiences, Proton. 
-
-## Quick Links
-
-* [Scattered-Systems](https://scattered-systems.com)
-* [Documentaion](https://docs.scattered-systems.com)
+## Links
 * [DockerHub](https://hub.docker.com/u/scsys)
+* [Founder](https://pzzld.eth.limo/)
+* [Gitlab](https://gitlab.com/scsys)
 
-## Connect with Us
-* [Discord](https://discord.com/invite/Y4xuBUfVFe)
-* [pzzld.eth](https://pzzld.eth.link/)
+
