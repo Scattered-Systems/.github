@@ -2,15 +2,14 @@
 
 ## _Building the next generation of internet-based experiences_
 
-Welcome, we are a privately funded decentralized initiative currently engaging in the development of our unified interface, Proton, which seamlessly integrates a handful of novel technical solutions to enable the everyday user to migrate onto Web3 platforms. Additionally, we are currently seeking an initial round of investors to support our ongoing efforts. 
+Welcome, we are a privately funded decentralized initiative currently engaging in the development of our unified interface, Proton, which seamlessly integrates a handful of novel technical solutions to enable the everyday user to migrate onto Web3 platforms. We are currently seeking an initial round of investors to support our ongoing efforts. 
 
-### Connect with us
+### Discover
 
-* [Blog](https://blog.scattered-systems.com)
 * [Docs](https://docs.scattered-systems.com)
-* [Website](https://scattered-systems.com)
+* [Homepage](https://scattered-systems.com)
 
-#### _Founder_
+#### _Connect with me_
 
 * [Email](jo3mccain@scattered-systems.com)
 * [ENS](https://pzzld.eth.limo)
