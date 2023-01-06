@@ -4,7 +4,6 @@
 ***
 
 Scattered-Systems is currently an independently owned and operated initiative aspiring to empower everyday users to benefit from blockchain and other similar cloud-native technologies as our society inches ever closer to a new digital precipice fueled by the wave of recent global events. Our efforts culminate into Proton, an elegant interface manifesting the registered decentralized namespace into a tangible experience facilitating meaningful interactions between peers leveraging the unique architecture to achieve a high-degree of malleability. We define malleability as the ability for an interface to morph into the desired finish, a concept we achieve with the persistance of dedicated pipelines enabling the platform to be retain an unparalleled level of flexability. 
-which seamlessly integrates a handful of novel technical solutions to enable the everyday user to migrate onto Web3 platforms. We are currently seeking an initial round of investors to support our ongoing efforts. 
 
 ## Discover
 
@@ -12,7 +11,7 @@ For more information about the project checkout the links below to navigate to o
 
 - [Blog](https://pzzld.medium.com)
 - [Docs](https://docs.scattered-systems.com)
-- [Homepage](https://scattered-systems.com)
+- [Homepage](https://scsys.eth.limo)
 
 #### _Connect_
 
