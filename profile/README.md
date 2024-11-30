@@ -5,7 +5,7 @@
 
 ## Overview
 
-Scattered-Systems envisions a world without barriers, empowered by new technologies that committed to the human-experience rather than pure profit.
+Scattered-Systems envisions a world without barriers, empowered by new technologies that are committed to the human-experience rather than pure profit.
 
 ### What this looks like
 
