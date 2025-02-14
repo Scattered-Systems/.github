@@ -3,23 +3,11 @@
 
 ***
 
+Welcome to Scattered-Systems!
+
 ## Overview
 
-Scattered-Systems envisions a world without barriers, empowered by new technologies that are committed to the human-experience rather than pure profit.
-
-### What this looks like
-
-Our ecosystem manifests itself into our multi-platform portal, Proton,
-
-- Flow: A modular, operating-system-like node software seamlessly integrating with Proton.
-
-#### _Applications_
-
-- Aether: Compute
-- Chaos: Storage
-- Reaction: Social
-
-## Misc
+Our ecosystem manifests into our all-in-one portal, Proton. Proton is a highly modular software capable of efficiently aggregating computational resources from registered devices to create a personal digital cluster. Each cluster is accessed through the dedicated user-interface and is natively equipped to handle unique generative workflows called _experiences_. Portal's are globally accessible applications that can be installed as a native application, operating system, or simply acced via the web.
 
 ### _Connect with us_
 
