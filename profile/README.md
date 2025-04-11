@@ -11,6 +11,6 @@ Our ecosystem manifests into our all-in-one portal, Proton. Proton is a highly m
 
 ### _Connect with us_
 
-- [Discord](https://discord.gg/Mf6s7qrjmm)
+- [Discord](https://discord.gg/x2VC3xRW)
 - [LinkedIn](https://linkedin.com/company/scsys)
 - [Twitter](https://twitter.com/scsys_eth)
