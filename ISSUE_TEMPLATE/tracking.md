@@ -2,7 +2,7 @@
 about: Create tracking issues for the project
 labels: [ tracking ]
 name: Tracking Issue
-title: 'Tracking Issue: '
+title: 'Tracking issue for '
 type: feature
 ---
 
