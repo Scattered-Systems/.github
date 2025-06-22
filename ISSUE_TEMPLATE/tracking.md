@@ -6,12 +6,14 @@ title: 'Tracking issue for '
 type: feature
 ---
 
-_Describe the proposal or feature that this issue is tracking._
+<!-- Describe the proposal or feature that this issue is tracking. -->
 
 ## Roadmap
 
-_Include a high-level roadmap of the steps that need to be completed to implement this proposal or feature._
+<!-- Include a high-level roadmap of the steps that need to be completed to implement this proposal or feature. -->
 
-## Details
+- [ ] Step 1:
 
-_Include any additional details or context that may be relevant._
+## Overview
+
+<!-- Include any additional details or context that may be relevant. -->

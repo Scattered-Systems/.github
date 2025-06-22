@@ -1,20 +1,20 @@
 ---
 about: Create a report to help us improve
-assignees: [ FL03 ]
 labels: [ bug ]
 name: Bug report
 title: 'Bug Report: '
+type: bug
 ---
 
-### Overview
+## Overview
 
-A clear and concise description of what the bug is.
+<!-- A clear and concise description of what the bug is. -->
 
-### _**Expectations**_
+## _**Expectations**_
 
 What was expected to happen...
 
-#### _**Actual behavior**_
+## _**Actual behavior**_
 
 Steps to reproduce the behavior:
 
@@ -23,22 +23,27 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Desktop (please complete the following information):**
+### Environment(s)
+
+<!-- the environment / platform the bug occurred on; please fill out whenever possible. -->
+
+#### Desktop
 
 - OS: [e.g. iOS]
 - Browser [e.g. chrome, safari]
 - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
+#### Smartphone
 
 - Device: [e.g. iPhone6]
 - OS: [e.g. iOS8.1]
 - Browser [e.g. stock browser, safari]
 - Version [e.g. 22]
 
-### **Attachments**
+## Details
 
-If applicable, add screenshots to help explain your problem.
+<!-- Any additional details, attachments, etc. that can help identify and fix the bug. -->
 
-**Additional context**
-Add any other context about the problem here.
+### Attachments
+
+- []: # (Please attach any files that can help us reproduce the bug.)
