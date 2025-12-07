@@ -3,7 +3,7 @@
 
 ***
 
-Welcome to Scattered-Systems!
+Welcome to Scattered-Systems! By founding my company, Scattered-Systems, I was challenging myself to reach for the stars in pursuit of an idea that started out as a mechanism to aggregate computational resources. This simple idea took me down several rabbit holes as I questioned the very nature of computation. Along the way, what was once a single, focused mechanism blossmed into an ecosystem of carefully curated solutions designed to empower everyday users with advanced technologies to better experience the next-generation of internet based experiences. 
 
 ## Overview
 
