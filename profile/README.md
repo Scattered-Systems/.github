@@ -1,7 +1,17 @@
-# Scattered-Systems
-> _Building the next generation of internet-based experiences_
+<div align="center">
+  <img src="https://scsys.io/logo.svg" alt="scsys" width="50%">
+  <h1>Scattered-Systems</h1>
+  <p><i>Harmonizing compute. Distributing possibility.</i></p>
+  <samp>
+    <a href="https://scsys.io">Website</a> • 
+    <a href="https://github.com/scattered-systems">GitHub</a> • 
+    <a href="mailto:support@scsys.io">Contact</a>
+  </samp>
+  <br>
+  <br>
+  <hr width="50%">
+</div>
 
-***
 
 Welcome to Scattered-Systems! By founding my company, Scattered-Systems, I was challenging myself to reach for the stars in pursuit of an idea that started out as a mechanism to aggregate computational resources. This simple idea took me down several rabbit holes as I questioned the very nature of computation. Along the way, what was once a single, focused mechanism blossmed into an ecosystem of carefully curated solutions designed to empower everyday users with advanced technologies to better experience the next-generation of internet based experiences. 
 
